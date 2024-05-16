@@ -1,1 +1,1 @@
-# git_trail_2
+This is second trail version.
